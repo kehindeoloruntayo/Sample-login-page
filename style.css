@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    font-family: monospace;
+}
+
+.container {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.rounded-lg img {
+    height: 100px;
+    width: 150px;
+    border-radius: 100px;
+    margin-left: 220px;
+}
+
+.a img {
+    height: 70px;
+    width: 70px;
+    border-radius: 100px;
+}
