@@ -1,7 +1,8 @@
 # _NEWS BLOG_
-### _News blog is a piece of code used to showcase the knownloge of bootstrap_
+### _News blog is a piece of code used to showcase the knownledge of bootstrap_
 
 ## Technology used
+* _GIT_
 * _HTML_
 * _CSS_
 * _Bootstap_
