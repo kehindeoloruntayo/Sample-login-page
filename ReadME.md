@@ -4,6 +4,7 @@
 ## Technology used
 * _HTML_
 * _CSS_
+* _Bootstap_
 
 ## Contact
 * _NAME: Oloruntayo Kehinde_
