@@ -1,5 +1,5 @@
-# _NEWS BLOG_
-### _News blog is a piece of code used to showcase the knownledge of bootstrap_
+# _Today_
+### _Today is a piece of code used to showcase the knownledge of bootstrap_
 
 ## Technology used
 * _GIT_
@@ -17,4 +17,4 @@
 * _Report any suspected security problem to the contact above._
 
 ## Notice
-Newsblog contains pieces of source code that is copyright (c) 2023, MIT. This notice is included here to comply with the distribution terms.
+Today contains pieces of source code that is copyright (c) 2023, MIT. This notice is included here to comply with the distribution terms.
